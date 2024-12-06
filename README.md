@@ -5,7 +5,7 @@ I’m a Webflow Developer with over a year of experience building dynamic, visua
 ### 🚀 Webflow Projects
 
 Here are some of the live projects I’ve worked on:
-
+- [Story North Production](https://storynorth.webflow.io/): A visually engaging platform tailored to highlight the art of storytelling in media production, featuring sleek designs and dynamic interactions.
 - [letter to mumphis](https://letter-to-mumphis.webflow.io/): A creative platform designed to celebrate architectural and structural projects, merging artistic vision with technical precision to showcase the beauty of craftsmanship.
 - [Structural Stories](https://www.structuralstories.com/): A creative platform designed to showcase architectural and structural projects, with an aesthetic that reflects the precision of the craft.
 - [Cycle Here Films](https://www.cycleherefilms.com/): A visually rich website for a video production company, focused on showcasing their portfolio of work with engaging visuals and smooth navigation.
@@ -22,6 +22,7 @@ Each project involved working closely with clients to bring their vision to life
 - **Webflow Developer**: Over 1 year of experience building websites for US-based clients.
 - Worked on a range of industries from media production to corporate platforms, focusing on client satisfaction and high-quality designs.
 - **Webflow CMS & Lottie Animations**: Experienced in utilizing Webflow CMS for dynamic content management and integrating Lottie animations for interactive and visually appealing designs.
+- **Advanced Animations & Effects**: Implemented beautiful animations and interactions using GSAP and Lottie, as well as smooth page transitions with Barba.js.
 
 ### 💡 Technologies
 
@@ -29,7 +30,12 @@ Each project involved working closely with clients to bring their vision to life
 - **HTML, CSS**: Strong foundation in front-end development.
 - **JavaScript**: Used for dynamic website behavior and interaction.
 - **Lottie Animations**: Integrated animations to enhance the user experience.
+- **GSAP**: Utilized for advanced animations and custom interactions.
+- **Barba.js**: Integrated for seamless and smooth page transitions.
+- **Finsweet Libraries**: Used for CMS solutions, including CMS filters, tabs, and slides.
 - **Webflow CMS**: Implemented dynamic content structures for easier management and scalability.
+- **Sandbox**: Developed custom code solutions and integrated third-party tools.
+- **GitHub & Vercel**: Leveraged GitHub for version control and Vercel for hosting custom code, optimizing performance and reducing network load.
 
 ### 📫 Let's Connect!
 
