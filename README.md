@@ -1,43 +1,70 @@
-### 👋 Hi, I'm Muhammad Haider Hamayoun
+### 👋 Hi, I'm Muhammad Haider Hamayoun  
 
-I’m a Webflow Developer with over a year of experience building dynamic, visually stunning websites. I specialize in creating custom solutions for clients, ensuring their websites not only look great but also function smoothly. My portfolio includes projects across a variety of industries, from filmmaking and storytelling to dating platforms. I also have experience with Webflow CMS, Lottie animations, and much more.
+I’m a **Webflow Developer** with over **2+ years of experience** building dynamic, visually stunning websites. I specialize in creating **custom solutions** for clients, ensuring their websites not only look great but also function smoothly. My expertise spans various industries, including **filmmaking, storytelling, real estate, and corporate platforms**.  
 
-### 🚀 Webflow Projects
+I also have experience with **Webflow CMS, Lottie animations, Zapier automation, and email workflows**, allowing me to create highly interactive and automated experiences for businesses.  
 
-Here are some of the live projects I’ve worked on:
-- [Story North Production](https://storynorthproductions.com): A visually engaging platform tailored to highlight the art of storytelling in media production, featuring sleek designs and dynamic interactions.
-- [Premier Properties](https://www.premierproperties.ae/): A sophisticated website showcasing high-end real estate listings, built using advanced CMS features to ensure elegant design, seamless navigation, and dynamic content management.
-- [letter to mumphis](https://letter-to-mumphis.webflow.io/): A creative platform designed to celebrate architectural and structural projects, merging artistic vision with technical precision to showcase the beauty of craftsmanship.
-- [Structural Stories](https://www.structuralstories.com/): A creative platform designed to showcase architectural and structural projects, with an aesthetic that reflects the precision of the craft.
-- [Cycle Here Films](https://www.cycleherefilms.com/): A visually rich website for a video production company, focused on showcasing their portfolio of work with engaging visuals and smooth navigation.
-- [Vested Dating](https://www.vesteddating.com/): A modern dating platform with a clean and intuitive design, built to ensure a seamless user experience.
-- [Golde Cinematics](https://www.goldecinematics.com/): A sleek website for a cinematic production house, with a strong emphasis on storytelling through visuals.
-- [Pixellence Films](https://www.pixellencefilms.com/): A film production portfolio website with an elegant and responsive design, featuring dynamic interactions and rich media content.
-- [Reach Video](https://reachvideo.co.uk/): A clean and responsive platform that showcases a video production company’s work, with an emphasis on video content and streamlined navigation.
-- [Verdi Ergun](https://verdi-erul-ergun.webflow.io/): A portfolio site for a creative professional, designed with minimalism in mind to emphasize the artist’s work.
+---
 
-Each project involved working closely with clients to bring their vision to life, with a focus on clean, responsive design, and optimal performance.
+### 🚀 Webflow Projects  
 
-### 💼 Experience
+Here are some of the **live projects** I’ve worked on:  
 
-- **Webflow Developer**: Over 1 year of experience building websites for US-based clients.
-- Worked on a range of industries from media production to corporate platforms, focusing on client satisfaction and high-quality designs.
-- **Webflow CMS & Lottie Animations**: Experienced in utilizing Webflow CMS for dynamic content management and integrating Lottie animations for interactive and visually appealing designs.
-- **Advanced Animations & Effects**: Implemented beautiful animations and interactions using GSAP and Lottie, as well as smooth page transitions with Barba.js.
+- **[Cogeter Fitness](https://fitness.cogeter.com/):** A modern and interactive fitness platform designed for health and wellness enthusiasts.  
+- **[Prime Start Capital](https://www.primestart.capital/):** A sleek and professional website for a financial investment company.  
+- **[All Story Films](https://www.allstoryfilms.com/):** A visually rich platform showcasing storytelling through cinematic production.  
+- **[Open Mind Insights](https://www.tntopemind.org/):** A thought-provoking website focused on sharing insights and perspectives.  
+- **[Vivineer](https://www.vivineer.com/):** A dynamic site built for innovation-driven ventures and forward-thinking projects.  
+- **[Story North Production](https://storynorthproductions.com/):** A visually engaging website highlighting media production and storytelling.  
+- **[Premier Properties](https://www.premierproperties.ae/):** A high-end real estate website featuring luxury property listings.  
+- **[Structural Stories](https://www.structuralstories.com/):** A creative showcase of architectural and structural projects.  
+- **[Cycle Here Films](https://www.cycleherefilms.com/):** A portfolio website for a video production company with smooth navigation.  
+- **[Golde Cinematics](https://www.goldecinematics.com/):** A cinematic production website emphasizing visual storytelling.  
+- **[Pixellence Films](https://www.pixellencefilms.com/):** A responsive film production portfolio with dynamic interactions.  
+- **[Reach Video](https://reachvideo.co.uk/):** A modern website showcasing a video production company’s work.  
+- **[Verdi Ergun](https://verdi-erul-ergun.webflow.io/):** A minimalist portfolio site highlighting the artist’s creative work.
 
-### 💡 Technologies
+Each project involved **close collaboration** with clients to bring their vision to life, ensuring **clean, responsive designs, optimal performance, and seamless user experiences**.  
 
-- **Webflow**: Expert in designing, developing, and optimizing Webflow websites.
-- **HTML, CSS**: Strong foundation in front-end development.
-- **JavaScript**: Used for dynamic website behavior and interaction.
-- **Lottie Animations**: Integrated animations to enhance the user experience.
-- **GSAP**: Utilized for advanced animations and custom interactions.
-- **Barba.js**: Integrated for seamless and smooth page transitions.
-- **Finsweet Libraries**: Used for CMS solutions, including CMS filters, tabs, and slides.
-- **Webflow CMS**: Implemented dynamic content structures for easier management and scalability.
-- **Sandbox**: Developed custom code solutions and integrated third-party tools.
-- **GitHub & Vercel**: Leveraged GitHub for version control and Vercel for hosting custom code, optimizing performance and reducing network load.
+---
 
-### 📫 Let's Connect!
+### 💼 Experience  
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/haiderhamayoun/) or email me at haiderofficial127@gmail.com. Let's collaborate and build something amazing together!
+#### **Webflow Developer | 2+ Years Experience**  
+- **Worked with US-based clients**, delivering high-quality **custom Webflow solutions**.  
+- Specialized in **CMS-driven platforms, corporate websites, storytelling projects, and eCommerce**.  
+- **Integrated automation** for business workflows using **Zapier** and **email automation tools**.  
+- Created **advanced interactions and animations** to enhance user experience.  
+
+#### **Webflow CMS & Lottie Animations**  
+- Implemented **dynamic content structures** to make websites **scalable and easy to manage**.  
+- Used **Lottie animations** for enhanced interactivity and smooth transitions.  
+
+#### **Zapier & Email Automations**  
+- Automated **lead generation, form submissions, and CRM integrations** using **Zapier**.  
+- Set up **email workflows** to engage visitors, capture leads, and **automate follow-ups**.  
+- Integrated Webflow forms with **Google Sheets, HubSpot, Mailchimp, and Airtable** for seamless data management.  
+
+---
+
+### 💡 Technologies  
+
+- **Webflow** – Expert in **designing, developing, and optimizing Webflow websites**.  
+- **Zapier** – Automated business workflows for **seamless integrations and task automation**.  
+- **HTML, CSS** – Strong **front-end development** foundation.  
+- **JavaScript** – Used for **dynamic website behavior** and **custom interactions**.  
+- **GSAP** – Integrated **advanced animations** and interactions.  
+- **Barba.js** – Used for **smooth page transitions**.  
+- **Finsweet Libraries** – CMS filters, tabs, and slides for advanced content management.  
+- **Webflow CMS** – Implemented **scalable content structures** for **easy website management**.  
+- **Email Automation** – Integrated **Mailchimp, HubSpot, and Airtable** for **automated email sequences**.  
+- **GitHub & Vercel** – Used **GitHub for version control** and **Vercel for hosting custom code**.  
+
+---
+
+### 📫 Let's Connect!  
+
+Looking to **elevate your Webflow project** or automate your business workflows? **Let’s build something amazing together!**  
+
+📩 **Email:** [haiderofficial127@gmail.com](mailto:haiderofficial127@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/haiderhamayoun/)  
