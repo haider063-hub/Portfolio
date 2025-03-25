@@ -17,10 +17,6 @@ Here are some of the **live projects** I’ve worked on:
 - **[Vivineer](https://www.vivineer.com/):** A dynamic site built for innovation-driven ventures and forward-thinking projects.  
 - **[Story North Production](https://storynorthproductions.com/):** A visually engaging website highlighting media production and storytelling.  
 - **[Premier Properties](https://www.premierproperties.ae/):** A high-end real estate website featuring luxury property listings.  
-- **[Structural Stories](https://www.structuralstories.com/):** A creative showcase of architectural and structural projects.  
-- **[Cycle Here Films](https://www.cycleherefilms.com/):** A portfolio website for a video production company with smooth navigation.  
-- **[Golde Cinematics](https://www.goldecinematics.com/):** A cinematic production website emphasizing visual storytelling.  
-- **[Pixellence Films](https://www.pixellencefilms.com/):** A responsive film production portfolio with dynamic interactions.  
 - **[Reach Video](https://reachvideo.co.uk/):** A modern website showcasing a video production company’s work.  
 - **[Verdi Ergun](https://verdi-erul-ergun.webflow.io/):** A minimalist portfolio site highlighting the artist’s creative work.
 
