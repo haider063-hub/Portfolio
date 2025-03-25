@@ -10,7 +10,7 @@ I also have experience with **Webflow CMS, Lottie animations, Zapier automation,
 
 Here are some of the **live projects** I’ve worked on:  
 
-- **[Pure Elements](http://petech-site.webflow.io/)):**
+- **[Pure Elements](http://petech-site.webflow.io/):**
 - **[Cogeter Fitness](https://fitness.cogeter.com/):** A modern and interactive fitness platform designed for health and wellness enthusiasts.  
 - **[Prime Start Capital](https://www.primestart.capital/):** A sleek and professional website for a financial investment company.  
 - **[All Story Films](https://www.allstoryfilms.com/):** A visually rich platform showcasing storytelling through cinematic production.  
