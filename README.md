@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Muhammad Haider Hamayoun  
 
-I’m a **Webflow Developer** with over **2+ years of experience** building dynamic, visually stunning websites. I specialize in creating **custom solutions** for clients, ensuring their websites not only look great but also function smoothly. My expertise spans various industries, including **filmmaking, storytelling, real estate, and corporate platforms**.  
+I’m a **Webflow Developer** with over **2 years of experience** building dynamic, visually stunning websites. I specialize in creating **custom solutions** for clients, ensuring their websites not only look great but also function smoothly. My expertise spans various industries, including **filmmaking, storytelling, real estate, and corporate platforms**.  
 
 I also have experience with **Webflow CMS, Lottie animations, Zapier automation, and email workflows**, allowing me to create highly interactive and automated experiences for businesses.  
 
@@ -10,7 +10,7 @@ I also have experience with **Webflow CMS, Lottie animations, Zapier automation,
 
 Here are some of the **live projects** I’ve worked on:  
 
-- **[Pure Elements](https://www.petech.ae/)**
+- **[Pure Elements Technologies](https://www.petech.ae/)**
 - **[Cogeter Fitness](https://fitness.cogeter.com/):** A modern and interactive fitness platform designed for health and wellness enthusiasts.  
 - **[Prime Start Capital](https://www.primestart.capital/):** A sleek and professional website for a financial investment company.  
 - **[All Story Films](https://www.allstoryfilms.com/):** A visually rich platform showcasing storytelling through cinematic production.  
