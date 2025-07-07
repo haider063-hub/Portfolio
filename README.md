@@ -37,7 +37,7 @@ A minimalist yet professional site for an investment firm. I designed a clean la
 **Industry:** Film Production
 This cinematic website showcases the studio’s visual storytelling work. I focused on video optimization, storytelling layouts, and an immersive experience with Lottie animations and smooth scroll effects.
 
-### 🔹 [Open Mind Insights](https://www.tntopemind.org/)
+### 🔹 [Open Mind Insights](https://www.tntopenmind.org/)
 
 **Industry:** Non-Profit / Education
 A thought-leadership platform built for publishing insights, blogs, and articles. CMS was configured for easy content management, and I integrated social sharing and newsletter workflows.
