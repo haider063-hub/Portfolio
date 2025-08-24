@@ -12,6 +12,11 @@ I specialize in crafting **responsive, interactive, and CMS-powered websites** u
 
 Here are some of the **live Webflow websites** I’ve designed and developed:
 
+### 🔹 [SiteGrowth UK)
+
+**Industry:** IT, Web & AI Services Agency
+Full-service digital solutions firm specialising in AI-powered software, responsive web and mobile applications, cloud infrastructure, and data-driven platforms.
+
 ### 🔹 [Total Rewards – Lithia Driveway](https://totalrewards.lithiadriveway.com/)
 
 **Industry:** Automotive & Employee Benefits Platform
@@ -66,11 +71,6 @@ A high-end real estate listing site focused on luxury properties. Integrated adv
 
 **Industry:** Video Production
 Developed a fast, responsive, and modern Webflow site for a video marketing agency. Highlighted the team’s portfolio using Webflow CMS, scroll animations, and subtle transitions.
-
-### 🔹 [Verdi Ergun](https://verdi-erul-ergun.webflow.io/)
-
-**Industry:** Art / Portfolio
-A minimalist portfolio site for a visual artist. Focused on clarity and structure, using CMS to manage artwork galleries and Barba.js for fluid page transitions.
 
 ---
 
