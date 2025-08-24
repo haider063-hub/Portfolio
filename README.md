@@ -12,6 +12,11 @@ I specialize in crafting **responsive, interactive, and CMS-powered websites** u
 
 Here are some of the **live Webflow websites** I’ve designed and developed:
 
+### 🔹 [Total Rewards – Lithia Driveway](https://totalrewards.lithiadriveway.com/)
+
+**Industry:** Automotive & Employee Benefits Platform
+For Lithia Driveway’s Total Rewards site, the industry falls under Automotive / Employee Benefits since it’s related to Lithia Motors (an auto retailer) and their employee reward system.
+
 ### 🔹 [Dental Identification](https://www.dentalid.app/)
 
 **Industry:** Healthcare
@@ -90,7 +95,7 @@ A minimalist portfolio site for a visual artist. Focused on clarity and structur
 
 * **Webflow** – Custom design & development, CMS, animations, SEO setup
 * **HTML / CSS / JavaScript** – For custom components, responsiveness, and behavior
-* **GSAP / Barba.js** – Smooth transitions and scroll-based animations
+* **GSAP** – Smooth transitions and scroll-based animations
 * **Finsweet Attributes** – CMS filtering, sorting, and other dynamic features
 * **Zapier** – Workflow automation between Webflow and 3rd-party tools
 * **Email Integration** – Mailchimp, HubSpot, Airtable automations
