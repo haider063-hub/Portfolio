@@ -98,6 +98,4 @@ Punjab University College of Information Technology (PUCIT)
 📧 **Email:** [haiderofficial127@gmail.com](mailto:haiderofficial127@gmail.com)  
 📞 **Phone:** +92 3104111568  
 🔗 **LinkedIn:** [linkedin.com/in/haiderhamayoun](https://www.linkedin.com/in/haiderhamayoun)  
-💻 **GitHub:** [github.com/haider063-hub](https://github.com/haider063-hub)  
-
 ---
