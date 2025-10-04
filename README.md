@@ -35,7 +35,7 @@ I’ve worked with industries like **finance, healthcare, real estate, corporate
 
 ---
 
-### 🔹 Punch Group — *Webflow Developer*  
+### 🔹 [Punch Group](https://punch.cool/) — *Webflow Developer*  
 📍 Lahore, PK | May 2024 – Feb 2025  
 - Built complex **Webflow sites** with custom GSAP/Lottie animations.  
 - Standardized **Webflow best practices** for scalability.  
